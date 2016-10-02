@@ -1,0 +1,5510 @@
+fileFormatVersion: 2
+guid: 233d73ebc37a2b744b3f324f863262b9
+timeCreated: 1473708855
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Soma Cruz_0
+    21300002: Soma Cruz_1
+    21300004: Soma Cruz_2
+    21300006: Soma Cruz_3
+    21300008: Soma Cruz_4
+    21300010: Soma Cruz_5
+    21300012: Soma Cruz_6
+    21300014: Soma Cruz_7
+    21300016: Soma Cruz_8
+    21300018: Soma Cruz_9
+    21300020: Soma Cruz_10
+    21300022: Soma Cruz_11
+    21300024: Soma Cruz_12
+    21300026: Soma Cruz_13
+    21300028: Soma Cruz_14
+    21300030: Soma Cruz_15
+    21300032: Soma Cruz_16
+    21300034: Soma Cruz_17
+    21300036: Soma Cruz_18
+    21300038: Soma Cruz_19
+    21300040: Soma Cruz_20
+    21300042: Soma Cruz_21
+    21300044: Soma Cruz_22
+    21300046: Soma Cruz_23
+    21300048: Soma Cruz_24
+    21300050: Soma Cruz_25
+    21300052: Soma Cruz_26
+    21300054: Soma Cruz_27
+    21300056: Soma Cruz_28
+    21300058: Soma Cruz_29
+    21300060: Soma Cruz_30
+    21300062: Soma Cruz_31
+    21300064: Soma Cruz_32
+    21300066: Soma Cruz_33
+    21300068: Soma Cruz_34
+    21300070: Soma Cruz_35
+    21300072: Soma Cruz_36
+    21300074: Soma Cruz_37
+    21300076: Soma Cruz_38
+    21300078: Soma Cruz_39
+    21300080: Soma Cruz_40
+    21300082: Soma Cruz_41
+    21300084: Soma Cruz_42
+    21300086: Soma Cruz_43
+    21300088: Soma Cruz_44
+    21300090: Soma Cruz_45
+    21300092: Soma Cruz_46
+    21300094: Soma Cruz_47
+    21300096: Soma Cruz_48
+    21300098: Soma Cruz_49
+    21300100: Soma Cruz_50
+    21300102: Soma Cruz_51
+    21300104: Soma Cruz_52
+    21300106: Soma Cruz_53
+    21300108: Soma Cruz_54
+    21300110: Soma Cruz_55
+    21300112: Soma Cruz_56
+    21300114: Soma Cruz_57
+    21300116: Soma Cruz_58
+    21300118: Soma Cruz_59
+    21300120: Soma Cruz_60
+    21300122: Soma Cruz_61
+    21300124: Soma Cruz_62
+    21300126: Soma Cruz_63
+    21300128: Soma Cruz_64
+    21300130: Soma Cruz_65
+    21300132: Soma Cruz_66
+    21300134: Soma Cruz_67
+    21300136: Soma Cruz_68
+    21300138: Soma Cruz_69
+    21300140: Soma Cruz_70
+    21300142: Soma Cruz_71
+    21300144: Soma Cruz_72
+    21300146: Soma Cruz_73
+    21300148: Soma Cruz_74
+    21300150: Soma Cruz_75
+    21300152: Soma Cruz_76
+    21300154: Soma Cruz_77
+    21300156: Soma Cruz_78
+    21300158: Soma Cruz_79
+    21300160: Soma Cruz_80
+    21300162: Soma Cruz_81
+    21300164: Soma Cruz_82
+    21300166: Soma Cruz_83
+    21300168: Soma Cruz_84
+    21300170: Soma Cruz_85
+    21300172: Soma Cruz_86
+    21300174: Soma Cruz_87
+    21300176: Soma Cruz_88
+    21300178: Soma Cruz_89
+    21300180: Soma Cruz_90
+    21300182: Soma Cruz_91
+    21300184: Soma Cruz_92
+    21300186: Soma Cruz_93
+    21300188: Soma Cruz_94
+    21300190: Soma Cruz_95
+    21300192: Soma Cruz_96
+    21300194: Soma Cruz_97
+    21300196: Soma Cruz_98
+    21300198: Soma Cruz_99
+    21300200: Soma Cruz_100
+    21300202: Soma Cruz_101
+    21300204: Soma Cruz_102
+    21300206: Soma Cruz_103
+    21300208: Soma Cruz_104
+    21300210: Soma Cruz_105
+    21300212: Soma Cruz_106
+    21300214: Soma Cruz_107
+    21300216: Soma Cruz_108
+    21300218: Soma Cruz_109
+    21300220: Soma Cruz_110
+    21300222: Soma Cruz_111
+    21300224: Soma Cruz_112
+    21300226: Soma Cruz_113
+    21300228: Soma Cruz_114
+    21300230: Soma Cruz_115
+    21300232: Soma Cruz_116
+    21300234: Soma Cruz_117
+    21300236: Soma Cruz_118
+    21300238: Soma Cruz_119
+    21300240: Soma Cruz_120
+    21300242: Soma Cruz_121
+    21300244: Soma Cruz_122
+    21300246: Soma Cruz_123
+    21300248: Soma Cruz_124
+    21300250: Soma Cruz_125
+    21300252: Soma Cruz_126
+    21300254: Soma Cruz_127
+    21300256: Soma Cruz_128
+    21300258: Soma Cruz_129
+    21300260: Soma Cruz_130
+    21300262: Soma Cruz_131
+    21300264: Soma Cruz_132
+    21300266: Soma Cruz_133
+    21300268: Soma Cruz_134
+    21300270: Soma Cruz_135
+    21300272: Soma Cruz_136
+    21300274: Soma Cruz_137
+    21300276: Soma Cruz_138
+    21300278: Soma Cruz_139
+    21300280: Soma Cruz_140
+    21300282: Soma Cruz_141
+    21300284: Soma Cruz_142
+    21300286: Soma Cruz_143
+    21300288: Soma Cruz_144
+    21300290: Soma Cruz_145
+    21300292: Soma Cruz_146
+    21300294: Soma Cruz_147
+    21300296: Soma Cruz_148
+    21300298: Soma Cruz_149
+    21300300: Soma Cruz_150
+    21300302: Soma Cruz_151
+    21300304: Soma Cruz_152
+    21300306: Soma Cruz_153
+    21300308: Soma Cruz_154
+    21300310: Soma Cruz_155
+    21300312: Soma Cruz_156
+    21300314: Soma Cruz_157
+    21300316: Soma Cruz_158
+    21300318: Soma Cruz_159
+    21300320: Soma Cruz_160
+    21300322: Soma Cruz_161
+    21300324: Soma Cruz_162
+    21300326: Soma Cruz_163
+    21300328: Soma Cruz_164
+    21300330: Soma Cruz_165
+    21300332: Soma Cruz_166
+    21300334: Soma Cruz_167
+    21300336: Soma Cruz_168
+    21300338: Soma Cruz_169
+    21300340: Soma Cruz_170
+    21300342: Soma Cruz_171
+    21300344: Soma Cruz_172
+    21300346: Soma Cruz_173
+    21300348: Soma Cruz_174
+    21300350: Soma Cruz_175
+    21300352: Soma Cruz_176
+    21300354: Soma Cruz_177
+    21300356: Soma Cruz_178
+    21300358: Soma Cruz_179
+    21300360: Soma Cruz_180
+    21300362: Soma Cruz_181
+    21300364: Soma Cruz_182
+    21300366: Soma Cruz_183
+    21300368: Soma Cruz_184
+    21300370: Soma Cruz_185
+    21300372: Soma Cruz_186
+    21300374: Soma Cruz_187
+    21300376: Soma Cruz_188
+    21300378: Soma Cruz_189
+    21300380: Soma Cruz_190
+    21300382: Soma Cruz_191
+    21300384: Soma Cruz_192
+    21300386: Soma Cruz_193
+    21300388: Soma Cruz_194
+    21300390: Soma Cruz_195
+    21300392: Soma Cruz_196
+    21300394: Soma Cruz_197
+    21300396: Soma Cruz_198
+    21300398: Soma Cruz_199
+    21300400: Soma Cruz_200
+    21300402: Soma Cruz_201
+    21300404: Soma Cruz_202
+    21300406: Soma Cruz_203
+    21300408: Soma Cruz_204
+    21300410: Soma Cruz_205
+    21300412: Soma Cruz_206
+    21300414: Soma Cruz_207
+    21300416: Soma Cruz_208
+    21300418: Soma Cruz_209
+    21300420: Soma Cruz_210
+    21300422: Soma Cruz_211
+    21300424: Soma Cruz_212
+    21300426: Soma Cruz_213
+    21300428: Soma Cruz_214
+    21300430: Soma Cruz_215
+    21300432: Soma Cruz_216
+    21300434: Soma Cruz_217
+    21300436: Soma Cruz_218
+    21300438: Soma Cruz_219
+    21300440: Soma Cruz_220
+    21300442: Soma Cruz_221
+    21300444: Soma Cruz_222
+    21300446: Soma Cruz_223
+    21300448: Soma Cruz_224
+    21300450: Soma Cruz_225
+    21300452: Soma Cruz_226
+    21300454: Soma Cruz_227
+    21300456: Soma Cruz_228
+    21300458: Soma Cruz_229
+    21300460: Soma Cruz_230
+    21300462: Soma Cruz_231
+    21300464: Soma Cruz_232
+    21300466: Soma Cruz_233
+    21300468: Soma Cruz_234
+    21300470: Soma Cruz_235
+    21300472: Soma Cruz_236
+    21300474: Soma Cruz_237
+    21300476: Soma Cruz_238
+    21300478: Soma Cruz_239
+    21300480: Soma Cruz_240
+    21300482: Soma Cruz_241
+    21300484: Soma Cruz_242
+    21300486: Soma Cruz_243
+    21300488: Soma Cruz_244
+    21300490: Soma Cruz_245
+    21300492: Soma Cruz_246
+    21300494: Soma Cruz_247
+    21300496: Soma Cruz_248
+    21300498: Soma Cruz_249
+    21300500: Soma Cruz_250
+    21300502: Soma Cruz_251
+    21300504: Soma Cruz_252
+    21300506: Soma Cruz_253
+    21300508: Soma Cruz_254
+    21300510: Soma Cruz_255
+    21300512: Soma Cruz_256
+    21300514: Soma Cruz_257
+    21300516: Soma Cruz_258
+    21300518: Soma Cruz_259
+    21300520: Soma Cruz_260
+    21300522: Soma Cruz_261
+    21300524: Soma Cruz_262
+    21300526: Soma Cruz_263
+    21300528: Soma Cruz_264
+    21300530: Soma Cruz_265
+    21300532: Soma Cruz_266
+    21300534: Soma Cruz_267
+    21300536: Soma Cruz_268
+    21300538: Soma Cruz_269
+    21300540: Soma Cruz_270
+    21300542: Soma Cruz_271
+    21300544: Soma Cruz_272
+    21300546: Soma Cruz_273
+    21300548: Soma Cruz_274
+    21300550: Soma Cruz_275
+    21300552: Soma Cruz_276
+    21300554: Soma Cruz_277
+    21300556: Soma Cruz_278
+    21300558: Soma Cruz_279
+    21300560: Soma Cruz_280
+    21300562: Soma Cruz_281
+    21300564: Soma Cruz_282
+    21300566: Soma Cruz_283
+    21300568: Soma Cruz_284
+    21300570: Soma Cruz_285
+    21300572: Soma Cruz_286
+    21300574: Soma Cruz_287
+    21300576: Soma Cruz_288
+    21300578: Soma Cruz_289
+    21300580: Soma Cruz_290
+    21300582: Soma Cruz_291
+    21300584: Soma Cruz_292
+    21300586: Soma Cruz_293
+    21300588: Soma Cruz_294
+    21300590: Soma Cruz_295
+    21300592: Soma Cruz_296
+    21300594: Soma Cruz_297
+    21300596: Soma Cruz_298
+    21300598: Soma Cruz_299
+    21300600: Soma Cruz_300
+    21300602: Soma Cruz_301
+    21300604: Soma Cruz_302
+    21300606: Soma Cruz_303
+    21300608: Soma Cruz_304
+    21300610: Soma Cruz_305
+    21300612: Soma Cruz_306
+    21300614: Soma Cruz_307
+    21300616: Soma Cruz_308
+    21300618: Soma Cruz_309
+    21300620: Soma Cruz_310
+    21300622: Soma Cruz_311
+    21300624: Soma Cruz_312
+    21300626: Soma Cruz_313
+    21300628: Soma Cruz_314
+    21300630: Soma Cruz_315
+    21300632: Soma Cruz_316
+    21300634: Soma Cruz_317
+    21300636: Soma Cruz_318
+    21300638: Soma Cruz_319
+    21300640: Soma Cruz_320
+    21300642: Soma Cruz_321
+    21300644: Soma Cruz_322
+    21300646: Soma Cruz_323
+    21300648: Soma Cruz_324
+    21300650: Soma Cruz_325
+    21300652: Soma Cruz_326
+    21300654: Soma Cruz_327
+    21300656: Soma Cruz_328
+    21300658: Soma Cruz_329
+    21300660: Soma Cruz_330
+    21300662: Soma Cruz_331
+    21300664: Soma Cruz_332
+    21300666: Soma Cruz_333
+    21300668: Soma Cruz_334
+    21300670: Soma Cruz_335
+    21300672: Soma Cruz_336
+    21300674: Soma Cruz_337
+    21300676: Soma Cruz_338
+    21300678: Soma Cruz_339
+    21300680: Soma Cruz_340
+    21300682: Soma Cruz_341
+    21300684: Soma Cruz_342
+    21300686: Soma Cruz_343
+    21300688: Soma Cruz_344
+    21300690: Soma Cruz_345
+    21300692: Soma Cruz_346
+    21300694: Soma Cruz_347
+    21300696: Soma Cruz_348
+    21300698: Soma Cruz_349
+    21300700: Soma Cruz_350
+    21300702: Soma Cruz_351
+    21300704: Soma Cruz_352
+    21300706: Soma Cruz_353
+    21300708: Soma Cruz_354
+    21300710: Soma Cruz_355
+    21300712: Soma Cruz_356
+    21300714: Soma Cruz_357
+    21300716: Soma Cruz_358
+    21300718: Soma Cruz_359
+    21300720: Soma Cruz_360
+    21300722: Soma Cruz_361
+    21300724: Soma Cruz_362
+    21300726: Soma Cruz_363
+    21300728: Soma Cruz_364
+    21300730: Soma Cruz_365
+    21300732: Soma Cruz_366
+    21300734: Soma Cruz_367
+    21300736: Soma Cruz_368
+    21300738: Soma Cruz_369
+    21300740: Soma Cruz_370
+    21300742: Soma Cruz_371
+    21300744: Soma Cruz_372
+    21300746: Soma Cruz_373
+    21300748: Soma Cruz_374
+    21300750: Soma Cruz_375
+    21300752: Soma Cruz_376
+    21300754: Soma Cruz_377
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 100
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Soma Cruz_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2072
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2072
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2072
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2072
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2073
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2073
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2023
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2023
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2023
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2023
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2023
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2023
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2023
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_13
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2023
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2023
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_15
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2023
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_16
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2023
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_17
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2023
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1972
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1972
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1972
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_21
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1972
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1972
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_23
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1972
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_24
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1972
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_25
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1972
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1970
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_27
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1970
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 21}
+        - {x: -16.5, y: -21}
+        - {x: 15.5, y: -21}
+        - {x: 16.5, y: -14}
+        - {x: 16.5, y: 15}
+        - {x: 5.5, y: 21}
+    - name: Soma Cruz_28
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1970
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 21.5}
+        - {x: -16, y: 18.5}
+        - {x: -16, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 16, y: 15.5}
+        - {x: 9, y: 21.5}
+    - name: Soma Cruz_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1921
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1921
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1921
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_32
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1921
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_33
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1921
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_34
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1922
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_35
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1921
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_36
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1921
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_37
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1921
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_38
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1921
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_39
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1921
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_40
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1921
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_41
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1921
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_42
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1922
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_43
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1921
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_44
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1921
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_45
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1921
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 18.5}
+        - {x: -19, y: 9.5}
+        - {x: -19, y: -7.5}
+        - {x: -14, y: -18.5}
+        - {x: 1, y: -18.5}
+        - {x: 19, y: -0.5}
+        - {x: 19, y: 18.5}
+    - name: Soma Cruz_46
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1921
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 18.5}
+        - {x: -16, y: 12.5}
+        - {x: -19, y: 8.5}
+        - {x: -19, y: -18.5}
+        - {x: 2, y: -18.5}
+        - {x: 19, y: -12.5}
+        - {x: 19, y: 18.5}
+    - name: Soma Cruz_47
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1921
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 18.5}
+        - {x: -15, y: 12.5}
+        - {x: -19, y: 6.5}
+        - {x: -19, y: -7.5}
+        - {x: -16, y: -18.5}
+        - {x: -3, y: -18.5}
+        - {x: 18, y: -6.5}
+        - {x: 19, y: -2.5}
+        - {x: 19, y: 18.5}
+    - name: Soma Cruz_48
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1921
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 18.5}
+        - {x: -18.5, y: 13.5}
+        - {x: -18.5, y: -18.5}
+        - {x: 2.5, y: -18.5}
+        - {x: 18.5, y: -5.5}
+        - {x: 18.5, y: 18.5}
+    - name: Soma Cruz_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1882
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_50
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1882
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_51
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1882
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_52
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1882
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_53
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1882
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_54
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1882
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1882
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_56
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1882
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_57
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1882
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_58
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1882
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_59
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1882
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_60
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1882
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_61
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1882
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_62
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1882
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_63
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1882
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_64
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1882
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_65
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1882
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_66
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1882
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_67
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1843
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_68
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1843
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1843
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_70
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1843
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_71
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1844
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_72
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1845
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_73
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1845
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_74
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1845
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_75
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1845
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_76
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1845
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_77
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1811
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_78
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1811
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_79
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1811
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_80
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1811
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_81
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1811
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_82
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1811
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_83
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1811
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_84
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1811
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_85
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1768
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_86
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1767
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_87
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1759
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 19}
+        - {x: -17.5, y: 18}
+        - {x: -18.5, y: 17}
+        - {x: -18.5, y: 6}
+        - {x: -1.5, y: -12}
+        - {x: 11.5, y: -19}
+        - {x: 18.5, y: -19}
+        - {x: 18.5, y: -4}
+        - {x: 5.5, y: 19}
+    - name: Soma Cruz_88
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1759
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 19.5}
+        - {x: -18.5, y: 16.5}
+        - {x: -18.5, y: 1.5}
+        - {x: 7.5, y: -19.5}
+        - {x: 18.5, y: -19.5}
+        - {x: 18.5, y: -4.5}
+        - {x: 4.5, y: 19.5}
+    - name: Soma Cruz_89
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1761
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 19.5}
+        - {x: -19, y: 17.5}
+        - {x: -19, y: 9.5}
+        - {x: -13, y: -2.5}
+        - {x: 12, y: -19.5}
+        - {x: 19, y: -19.5}
+        - {x: 19, y: -6.5}
+        - {x: 5, y: 19.5}
+    - name: Soma Cruz_90
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1726
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1727
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_92
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1727
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_93
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1723
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_94
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1727
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_95
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1675
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_96
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1675
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_97
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1675
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_98
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1675
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_99
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1675
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 21}
+        - {x: -13.5, y: 15}
+        - {x: -18.5, y: 3}
+        - {x: -18.5, y: -15}
+        - {x: -11.5, y: -21}
+        - {x: 0.5, y: -21}
+        - {x: 18.5, y: -1}
+        - {x: 18.5, y: 21}
+    - name: Soma Cruz_100
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1674
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 21.5}
+        - {x: -19, y: 7.5}
+        - {x: -19, y: -15.5}
+        - {x: -13, y: -21.5}
+        - {x: -2, y: -21.5}
+        - {x: 19, y: -1.5}
+        - {x: 19, y: 17.5}
+        - {x: 15, y: 21.5}
+    - name: Soma Cruz_101
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1674
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 3.5}
+        - {x: -19, y: 1.5}
+        - {x: -19, y: -4.5}
+        - {x: -18, y: -5.5}
+        - {x: -14, y: -21.5}
+        - {x: 7, y: -21.5}
+        - {x: 19, y: -15.5}
+        - {x: 19, y: 21.5}
+        - {x: 3, y: 21.5}
+        - {x: -10, y: 11.5}
+    - name: Soma Cruz_102
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1674
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 20.5}
+        - {x: -17.5, y: 6.5}
+        - {x: -18.5, y: 5.5}
+        - {x: -18.5, y: -4.5}
+        - {x: -17.5, y: -5.5}
+        - {x: -11.5, y: -16.5}
+        - {x: -6.5, y: -20.5}
+        - {x: 5.5, y: -20.5}
+        - {x: 16.5, y: -17.5}
+        - {x: 18.5, y: -7.5}
+        - {x: 18.5, y: 20.5}
+    - name: Soma Cruz_103
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1673
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 21}
+        - {x: -18.5, y: 9}
+        - {x: -18.5, y: -3}
+        - {x: -4.5, y: -21}
+        - {x: 4.5, y: -21}
+        - {x: 18.5, y: -6}
+        - {x: 18.5, y: 21}
+    - name: Soma Cruz_104
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1673
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 21}
+        - {x: 2.5, y: 21}
+        - {x: -18.5, y: 7}
+        - {x: -18.5, y: 0}
+        - {x: -7.5, y: -18}
+        - {x: -4.5, y: -21}
+        - {x: 11.5, y: -21}
+        - {x: 18.5, y: -8}
+        - {x: 18.5, y: 19}
+        - {x: 17.5, y: 20}
+    - name: Soma Cruz_105
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1673
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 21}
+        - {x: -17, y: 11}
+        - {x: -17, y: -2}
+        - {x: 0, y: -20}
+        - {x: 2, y: -21}
+        - {x: 7, y: -21}
+        - {x: 17, y: -9}
+        - {x: 17, y: 21}
+    - name: Soma Cruz_106
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1673
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_107
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1673
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 21.5}
+        - {x: -16, y: -21.5}
+        - {x: 11, y: -21.5}
+        - {x: 16, y: -7.5}
+        - {x: 16, y: 18.5}
+        - {x: 9, y: 21.5}
+    - name: Soma Cruz_108
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1673
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 21.5}
+        - {x: -16, y: 20.5}
+        - {x: -16, y: 13.5}
+        - {x: 1, y: -21.5}
+        - {x: 12, y: -21.5}
+        - {x: 16, y: -14.5}
+        - {x: 16, y: 18.5}
+        - {x: 15, y: 21.5}
+    - name: Soma Cruz_109
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1673
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 21.5}
+        - {x: -16.5, y: 6.5}
+        - {x: -11.5, y: -9.5}
+        - {x: -0.5, y: -21.5}
+        - {x: 16.5, y: -21.5}
+        - {x: 16.5, y: 21.5}
+    - name: Soma Cruz_110
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1671
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_111
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1671
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_112
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1672
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_113
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1672
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 20.5}
+        - {x: -16.5, y: 17.5}
+        - {x: -16.5, y: 9.5}
+        - {x: 2.5, y: -20.5}
+        - {x: 14.5, y: -20.5}
+        - {x: 16.5, y: -6.5}
+        - {x: 16.5, y: 20.5}
+    - name: Soma Cruz_114
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1625
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 21}
+        - {x: -13.5, y: 18}
+        - {x: -16.5, y: 13}
+        - {x: -16.5, y: 6}
+        - {x: -7.5, y: -1}
+        - {x: -0.5, y: -19}
+        - {x: 3.5, y: -21}
+        - {x: 15.5, y: -21}
+        - {x: 16.5, y: -13}
+        - {x: 16.5, y: 21}
+    - name: Soma Cruz_115
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1625
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_116
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1625
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_117
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1625
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_118
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1625
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_119
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1625
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_120
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1625
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_121
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1625
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_122
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1583
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 18}
+        - {x: 3, y: 15}
+        - {x: -15, y: 6}
+        - {x: -17, y: 4}
+        - {x: -17, y: 0}
+        - {x: -13, y: -4}
+        - {x: -7, y: -13}
+        - {x: -2, y: -18}
+        - {x: 7, y: -18}
+        - {x: 17, y: -2}
+        - {x: 17, y: 18}
+    - name: Soma Cruz_123
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1582
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 19.5}
+        - {x: -16, y: 10.5}
+        - {x: -16, y: -7.5}
+        - {x: -5, y: -19.5}
+        - {x: 7, y: -19.5}
+        - {x: 16, y: 4.5}
+        - {x: 16, y: 19.5}
+    - name: Soma Cruz_124
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1583
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_125
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1581
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_126
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1581
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_127
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1580
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_128
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1580
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_129
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1578
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_130
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1580
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_131
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1535
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 22}
+        - {x: -18, y: 4}
+        - {x: -18, y: -19}
+        - {x: -15, y: -22}
+        - {x: 18, y: -22}
+        - {x: 18, y: 22}
+    - name: Soma Cruz_132
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1535
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 18.5}
+        - {x: 2, y: 17.5}
+        - {x: -16, y: 4.5}
+        - {x: -16, y: -10.5}
+        - {x: -6, y: -18.5}
+        - {x: 6, y: -18.5}
+        - {x: 16, y: 2.5}
+        - {x: 16, y: 18.5}
+    - name: Soma Cruz_133
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1533
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 18.5}
+        - {x: -16, y: 18.5}
+        - {x: -16, y: -18.5}
+        - {x: 2, y: -18.5}
+        - {x: 16, y: -2.5}
+        - {x: 16, y: 17.5}
+    - name: Soma Cruz_134
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1534
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 18}
+        - {x: -18, y: 12}
+        - {x: -18, y: -4}
+        - {x: -10, y: -18}
+        - {x: 11, y: -18}
+        - {x: 18, y: -3}
+        - {x: 18, y: 18}
+    - name: Soma Cruz_135
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1539
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_136
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1540
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_137
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1542
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_138
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1533
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_139
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1533
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_140
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1532
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_141
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1540
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_142
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1532
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_143
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1531
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_144
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1532
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_145
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1537
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_146
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1532
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_147
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1473
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_148
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1473
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_149
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1469
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_150
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1469
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_151
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1470
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 3.5}
+        - {x: 13.5, y: 6.5}
+        - {x: -11.5, y: 27.5}
+        - {x: -18.5, y: 27.5}
+        - {x: -18.5, y: 0.5}
+        - {x: -13.5, y: -15.5}
+        - {x: 9.5, y: -27.5}
+        - {x: 18.5, y: -27.5}
+        - {x: 18.5, y: -18.5}
+        - {x: 17.5, y: -15.5}
+    - name: Soma Cruz_152
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1422
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_153
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1422
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_154
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1423
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 21.5}
+        - {x: -22.5, y: 7.5}
+        - {x: -22.5, y: -8.5}
+        - {x: -13.5, y: -21.5}
+        - {x: 22.5, y: -21.5}
+        - {x: 22.5, y: 21.5}
+    - name: Soma Cruz_155
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1421
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -3}
+        - {x: 17, y: 12}
+        - {x: 12, y: 18}
+        - {x: 8, y: 22}
+        - {x: -1, y: 22}
+        - {x: -18, y: 4}
+        - {x: -18, y: -11}
+        - {x: -9, y: -22}
+        - {x: 18, y: -22}
+    - name: Soma Cruz_156
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1421
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 22}
+        - {x: -0.5, y: 22}
+        - {x: -22.5, y: 6}
+        - {x: -22.5, y: -14}
+        - {x: -19.5, y: -22}
+        - {x: 22.5, y: -22}
+        - {x: 22.5, y: 16}
+        - {x: 21.5, y: 18}
+    - name: Soma Cruz_157
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1421
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 22}
+        - {x: -17.5, y: 5}
+        - {x: -17.5, y: -19}
+        - {x: -12.5, y: -22}
+        - {x: 17.5, y: -22}
+        - {x: 17.5, y: 5}
+        - {x: 8.5, y: 22}
+    - name: Soma Cruz_158
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1421
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_159
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1421
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_160
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1421
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_161
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1421
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_162
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1372
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 22}
+        - {x: -14, y: 19}
+        - {x: -23, y: 4}
+        - {x: -23, y: -22}
+        - {x: 23, y: -22}
+        - {x: 23, y: 19}
+        - {x: 16, y: 22}
+    - name: Soma Cruz_163
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1372
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 22}
+        - {x: -12, y: 18}
+        - {x: -23, y: 11}
+        - {x: -23, y: -22}
+        - {x: 19, y: -22}
+        - {x: 23, y: -6}
+        - {x: 23, y: 22}
+    - name: Soma Cruz_164
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1372
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_165
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1369
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_166
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1369
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_167
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1371
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_168
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1369
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_169
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1369
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_170
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1321
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_171
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1321
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 21}
+        - {x: -16.5, y: 17}
+        - {x: -22.5, y: 3}
+        - {x: -22.5, y: -10}
+        - {x: -18.5, y: -21}
+        - {x: -2.5, y: -21}
+        - {x: 17.5, y: -9}
+        - {x: 22.5, y: 5}
+        - {x: 22.5, y: 16}
+        - {x: 14.5, y: 21}
+    - name: Soma Cruz_172
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1321
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 21}
+        - {x: -23, y: 12}
+        - {x: -23, y: -21}
+        - {x: 10, y: -21}
+        - {x: 17, y: -19}
+        - {x: 23, y: 0}
+        - {x: 23, y: 20}
+        - {x: 22, y: 21}
+    - name: Soma Cruz_173
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1321
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_174
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1321
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 22}
+        - {x: -19.5, y: 12}
+        - {x: -19.5, y: -22}
+        - {x: -4.5, y: -22}
+        - {x: 9.5, y: -15}
+        - {x: 19.5, y: 1}
+        - {x: 19.5, y: 22}
+    - name: Soma Cruz_175
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1321
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 22}
+        - {x: -15, y: 22}
+        - {x: -22, y: 8}
+        - {x: -22, y: -10}
+        - {x: -15, y: -22}
+        - {x: -4, y: -22}
+        - {x: 16, y: -7}
+        - {x: 22, y: 3}
+        - {x: 22, y: 21}
+    - name: Soma Cruz_176
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1268
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_177
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1268
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_178
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1268
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_179
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1268
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_180
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1268
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 20.5}
+        - {x: -12, y: 17.5}
+        - {x: -18, y: 6.5}
+        - {x: -18, y: -19.5}
+        - {x: -17, y: -20.5}
+        - {x: 18, y: -20.5}
+        - {x: 18, y: 20.5}
+    - name: Soma Cruz_181
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1268
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 22}
+        - {x: -9.5, y: 22}
+        - {x: -18.5, y: 12}
+        - {x: -18.5, y: -22}
+        - {x: 13.5, y: -22}
+        - {x: 18.5, y: 4}
+        - {x: 18.5, y: 18}
+        - {x: 17.5, y: 19}
+    - name: Soma Cruz_182
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1268
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 22}
+        - {x: -18, y: 11}
+        - {x: -18, y: -22}
+        - {x: 13, y: -22}
+        - {x: 18, y: -4}
+        - {x: 18, y: 17}
+        - {x: 6, y: 22}
+    - name: Soma Cruz_183
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1269
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 19}
+        - {x: -4.5, y: 19}
+        - {x: -21.5, y: 6}
+        - {x: -21.5, y: -19}
+        - {x: 9.5, y: -19}
+        - {x: 21.5, y: -3}
+        - {x: 21.5, y: 18}
+    - name: Soma Cruz_184
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1269
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 5.5}
+        - {x: 22.5, y: 15.5}
+        - {x: 21.5, y: 17.5}
+        - {x: 17.5, y: 19.5}
+        - {x: -16.5, y: 19.5}
+        - {x: -22.5, y: 11.5}
+        - {x: -22.5, y: -7.5}
+        - {x: -17.5, y: -18.5}
+        - {x: -16.5, y: -19.5}
+        - {x: -9.5, y: -19.5}
+        - {x: -8.5, y: -18.5}
+        - {x: -6.5, y: -19.5}
+        - {x: 9.5, y: -19.5}
+    - name: Soma Cruz_185
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1268
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19}
+        - {x: -20, y: 8}
+        - {x: -20, y: -19}
+        - {x: 15, y: -19}
+        - {x: 20, y: -5}
+        - {x: 20, y: 19}
+    - name: Soma Cruz_186
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1267
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 20.5}
+        - {x: -5.5, y: 20.5}
+        - {x: -11.5, y: 17.5}
+        - {x: -18.5, y: 9.5}
+        - {x: -18.5, y: -20.5}
+        - {x: 18.5, y: -20.5}
+        - {x: 18.5, y: 18.5}
+    - name: Soma Cruz_187
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1267
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 19}
+        - {x: -20.5, y: 2}
+        - {x: -20.5, y: -19}
+        - {x: 16.5, y: -19}
+        - {x: 20.5, y: -3}
+        - {x: 20.5, y: 19}
+    - name: Soma Cruz_188
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1267
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 19}
+        - {x: -8.5, y: 19}
+        - {x: -20.5, y: -4}
+        - {x: -20.5, y: -19}
+        - {x: 8.5, y: -19}
+        - {x: 20.5, y: 7}
+        - {x: 20.5, y: 16}
+    - name: Soma Cruz_189
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1215
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_190
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1215
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 20.5}
+        - {x: -9.5, y: 20.5}
+        - {x: -18.5, y: 17.5}
+        - {x: -22.5, y: 4.5}
+        - {x: -22.5, y: -8.5}
+        - {x: -19.5, y: -8.5}
+        - {x: -17.5, y: -15.5}
+        - {x: -15.5, y: -20.5}
+        - {x: 10.5, y: -20.5}
+        - {x: 22.5, y: 0.5}
+        - {x: 22.5, y: 18.5}
+    - name: Soma Cruz_191
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1215
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20.5}
+        - {x: -16, y: 17.5}
+        - {x: -23, y: 3.5}
+        - {x: -23, y: -16.5}
+        - {x: -21, y: -20.5}
+        - {x: 15, y: -20.5}
+        - {x: 23, y: -3.5}
+        - {x: 23, y: 18.5}
+        - {x: 18, y: 20.5}
+    - name: Soma Cruz_192
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1215
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_193
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1215
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 21.5}
+        - {x: -8.5, y: 21.5}
+        - {x: -19.5, y: 7.5}
+        - {x: -19.5, y: -21.5}
+        - {x: 13.5, y: -21.5}
+        - {x: 19.5, y: -9.5}
+        - {x: 19.5, y: 17.5}
+    - name: Soma Cruz_194
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1215
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 21.5}
+        - {x: -21.5, y: 7.5}
+        - {x: -21.5, y: -21.5}
+        - {x: 16.5, y: -21.5}
+        - {x: 21.5, y: 4.5}
+        - {x: 21.5, y: 19.5}
+        - {x: 20.5, y: 21.5}
+    - name: Soma Cruz_195
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1164
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_196
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1164
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 21}
+        - {x: -6.5, y: 21}
+        - {x: -17.5, y: 18}
+        - {x: -22.5, y: 4}
+        - {x: -22.5, y: -7}
+        - {x: -14.5, y: -21}
+        - {x: -2.5, y: -21}
+        - {x: 11.5, y: -14}
+        - {x: 22.5, y: 3}
+        - {x: 22.5, y: 16}
+    - name: Soma Cruz_197
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1164
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 21}
+        - {x: -3, y: 21}
+        - {x: -9, y: 19}
+        - {x: -13, y: 16}
+        - {x: -23, y: 2}
+        - {x: -23, y: -15}
+        - {x: -19, y: -21}
+        - {x: -3, y: -21}
+        - {x: 12, y: -7}
+        - {x: 23, y: 10}
+        - {x: 23, y: 17}
+    - name: Soma Cruz_198
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1129
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_199
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1129
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_200
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1129
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_201
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1129
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_202
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1099
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_203
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1099
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_204
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1100
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_205
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1100
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_206
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1100
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_207
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1100
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_208
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1100
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_209
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1100
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_210
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1067
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_211
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1067
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_212
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1067
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_213
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1067
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_214
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1067
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_215
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1067
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_216
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1067
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_217
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1067
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_218
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1067
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_219
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1017
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 21}
+        - {x: -16.5, y: 2}
+        - {x: -16.5, y: -9}
+        - {x: -8.5, y: -21}
+        - {x: 1.5, y: -21}
+        - {x: 16.5, y: -7}
+        - {x: 16.5, y: 18}
+        - {x: 13.5, y: 21}
+    - name: Soma Cruz_220
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1016
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 21.5}
+        - {x: -13, y: 8.5}
+        - {x: -16, y: 2.5}
+        - {x: -16, y: -11.5}
+        - {x: -8, y: -21.5}
+        - {x: 1, y: -21.5}
+        - {x: 16, y: -11.5}
+        - {x: 16, y: 21.5}
+    - name: Soma Cruz_221
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1016
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_222
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1016
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 21.5}
+        - {x: -22.5, y: 3.5}
+        - {x: -22.5, y: -21.5}
+        - {x: 2.5, y: -21.5}
+        - {x: 11.5, y: -14.5}
+        - {x: 22.5, y: 6.5}
+        - {x: 22.5, y: 17.5}
+        - {x: 16.5, y: 21.5}
+    - name: Soma Cruz_223
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1016
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 21.5}
+        - {x: -22.5, y: 3.5}
+        - {x: -22.5, y: -15.5}
+        - {x: -19.5, y: -21.5}
+        - {x: 11.5, y: -21.5}
+        - {x: 21.5, y: -17.5}
+        - {x: 22.5, y: -11.5}
+        - {x: 22.5, y: 21.5}
+    - name: Soma Cruz_224
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1015
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_225
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 959
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_226
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 960
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_227
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 960
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_228
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 960
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 23}
+        - {x: 1, y: 23}
+        - {x: 0, y: 21}
+        - {x: -17, y: 2}
+        - {x: -17, y: -6}
+        - {x: -15, y: -8}
+        - {x: -14, y: -8}
+        - {x: -13, y: -23}
+        - {x: 15, y: -23}
+        - {x: 17, y: -12}
+        - {x: 17, y: 20}
+    - name: Soma Cruz_229
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 960
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 22.5}
+        - {x: -15, y: 8.5}
+        - {x: -17, y: 3.5}
+        - {x: -17, y: -16.5}
+        - {x: -13, y: -22.5}
+        - {x: 14, y: -22.5}
+        - {x: 17, y: -12.5}
+        - {x: 17, y: 22.5}
+    - name: Soma Cruz_230
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 960
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_231
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 960
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_232
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 960
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_233
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 960
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_234
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 959
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_235
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 959
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_236
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 959
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_237
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 959
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 16}
+        - {x: -7, y: 13}
+        - {x: -18, y: -6}
+        - {x: -18, y: -16}
+        - {x: 18, y: -16}
+        - {x: 18, y: 16}
+    - name: Soma Cruz_238
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 903
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_239
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 904
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_240
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 904
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_241
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 904
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 5.5}
+        - {x: 16.5, y: 20.5}
+        - {x: 14.5, y: 23.5}
+        - {x: -1.5, y: 23.5}
+        - {x: -16.5, y: 5.5}
+        - {x: -16.5, y: -11.5}
+        - {x: -11.5, y: -23.5}
+        - {x: -3.5, y: -23.5}
+        - {x: 14.5, y: -5.5}
+    - name: Soma Cruz_242
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 904
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 23}
+        - {x: -15, y: 9}
+        - {x: -17, y: 4}
+        - {x: -17, y: -15}
+        - {x: -11, y: -23}
+        - {x: -1, y: -23}
+        - {x: 16, y: -6}
+        - {x: 17, y: 0}
+        - {x: 17, y: 23}
+    - name: Soma Cruz_243
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 905
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 21}
+        - {x: -19.5, y: -21}
+        - {x: -3.5, y: -21}
+        - {x: 18.5, y: -15}
+        - {x: 19.5, y: -14}
+        - {x: 19.5, y: 8}
+        - {x: 7.5, y: 21}
+    - name: Soma Cruz_244
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 905
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 21.5}
+        - {x: -19.5, y: 16.5}
+        - {x: -19.5, y: -21.5}
+        - {x: 19.5, y: -21.5}
+        - {x: 19.5, y: 11.5}
+        - {x: -0.5, y: 21.5}
+    - name: Soma Cruz_245
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 905
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 21.5}
+        - {x: -19.5, y: 14.5}
+        - {x: -19.5, y: 3.5}
+        - {x: -9.5, y: -21.5}
+        - {x: 6.5, y: -21.5}
+        - {x: 19.5, y: -15.5}
+        - {x: 19.5, y: 16.5}
+        - {x: 3.5, y: 21.5}
+    - name: Soma Cruz_246
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 905
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 19}
+        - {x: -20.5, y: -14}
+        - {x: -18.5, y: -19}
+        - {x: 6.5, y: -19}
+        - {x: 20.5, y: -16}
+        - {x: 20.5, y: 16}
+        - {x: 10.5, y: 19}
+    - name: Soma Cruz_247
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 904
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_248
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 904
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_249
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 849
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_250
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 849
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_251
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 849
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_252
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 849
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_253
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 849
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_254
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 849
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 19}
+        - {x: -16.5, y: 0}
+        - {x: -16.5, y: -13}
+        - {x: -7.5, y: -19}
+        - {x: 16.5, y: -19}
+        - {x: 16.5, y: 17}
+        - {x: 15.5, y: 19}
+    - name: Soma Cruz_255
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 849
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 19}
+        - {x: -17, y: -1}
+        - {x: -17, y: -11}
+        - {x: -13, y: -19}
+        - {x: 17, y: -19}
+        - {x: 17, y: 17}
+        - {x: 16, y: 19}
+    - name: Soma Cruz_256
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 849
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 18.5}
+        - {x: -17, y: -1.5}
+        - {x: -17, y: -13.5}
+        - {x: -16, y: -15.5}
+        - {x: -14, y: -18.5}
+        - {x: 16, y: -18.5}
+        - {x: 17, y: -15.5}
+        - {x: 17, y: 18.5}
+    - name: Soma Cruz_257
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 848
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_258
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 846
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_259
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 848
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_260
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 848
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_261
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 848
+        width: 80
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_262
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 848
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_263
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 847
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_264
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 848
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 16}
+        - {x: -7, y: 13}
+        - {x: -18, y: -6}
+        - {x: -18, y: -16}
+        - {x: 18, y: -16}
+        - {x: 18, y: 16}
+    - name: Soma Cruz_265
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 795
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 21.5}
+        - {x: -16, y: 16.5}
+        - {x: -16, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 16, y: 19.5}
+        - {x: 13, y: 21.5}
+    - name: Soma Cruz_266
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 795
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 21}
+        - {x: -22, y: 8}
+        - {x: -22, y: -14}
+        - {x: -16, y: -21}
+        - {x: 17, y: -21}
+        - {x: 22, y: -8}
+        - {x: 22, y: 20}
+        - {x: 21, y: 21}
+    - name: Soma Cruz_267
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 795
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 21.5}
+        - {x: 1.5, y: 21.5}
+        - {x: -16.5, y: 0.5}
+        - {x: -16.5, y: -12.5}
+        - {x: -11.5, y: -21.5}
+        - {x: 16.5, y: -21.5}
+        - {x: 16.5, y: 20.5}
+    - name: Soma Cruz_268
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 795
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 21.5}
+        - {x: -3.5, y: 15.5}
+        - {x: -15.5, y: 1.5}
+        - {x: -16.5, y: -0.5}
+        - {x: -16.5, y: -6.5}
+        - {x: -15.5, y: -7.5}
+        - {x: -10.5, y: -21.5}
+        - {x: 16.5, y: -21.5}
+        - {x: 16.5, y: 17.5}
+        - {x: 14.5, y: 21.5}
+    - name: Soma Cruz_269
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 795
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 21}
+        - {x: -22, y: 15}
+        - {x: -22, y: -21}
+        - {x: 17, y: -21}
+        - {x: 22, y: -5}
+        - {x: 22, y: 21}
+    - name: Soma Cruz_270
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 795
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 22}
+        - {x: -17, y: 7}
+        - {x: -17, y: -14}
+        - {x: -13, y: -22}
+        - {x: 17, y: -22}
+        - {x: 17, y: 13}
+        - {x: 15, y: 22}
+    - name: Soma Cruz_271
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 760
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_272
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 760
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_273
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 760
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_274
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 760
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_275
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 760
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_276
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 705
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 22}
+        - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: -12, y: -22}
+        - {x: 8, y: -22}
+        - {x: 16, y: -7}
+        - {x: 16, y: 22}
+    - name: Soma Cruz_277
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 705
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 21.5}
+        - {x: -22, y: 6.5}
+        - {x: -22, y: -10.5}
+        - {x: -20, y: -15.5}
+        - {x: -15, y: -21.5}
+        - {x: 8, y: -21.5}
+        - {x: 22, y: 1.5}
+        - {x: 22, y: 21.5}
+    - name: Soma Cruz_278
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 705
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 21.5}
+        - {x: -22, y: 11.5}
+        - {x: -22, y: -21.5}
+        - {x: 6, y: -21.5}
+        - {x: 22, y: -0.5}
+        - {x: 22, y: 20.5}
+        - {x: 18, y: 21.5}
+    - name: Soma Cruz_279
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 656
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 22.5}
+        - {x: -17, y: 16.5}
+        - {x: -17, y: -22.5}
+        - {x: 14, y: -22.5}
+        - {x: 17, y: -3.5}
+        - {x: 17, y: 22.5}
+    - name: Soma Cruz_280
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 656
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 22.5}
+        - {x: -11, y: 22.5}
+        - {x: -18, y: 15.5}
+        - {x: -18, y: -22.5}
+        - {x: 11, y: -22.5}
+        - {x: 16, y: -17.5}
+        - {x: 18, y: -1.5}
+    - name: Soma Cruz_281
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 656
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 22.5}
+        - {x: -23.5, y: 7.5}
+        - {x: -23.5, y: -22.5}
+        - {x: 8.5, y: -22.5}
+        - {x: 23.5, y: 5.5}
+        - {x: 23.5, y: 19.5}
+        - {x: 19.5, y: 22.5}
+    - name: Soma Cruz_282
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 656
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 23}
+        - {x: -9.5, y: 23}
+        - {x: -14.5, y: 15}
+        - {x: -15.5, y: 10}
+        - {x: -16.5, y: -6}
+        - {x: -16.5, y: -23}
+        - {x: 9.5, y: -23}
+        - {x: 9.5, y: -19}
+        - {x: 16.5, y: 6}
+    - name: Soma Cruz_283
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 656
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 22.5}
+        - {x: -11, y: 22.5}
+        - {x: -18, y: 15.5}
+        - {x: -18, y: -22.5}
+        - {x: 11, y: -22.5}
+        - {x: 16, y: -17.5}
+        - {x: 18, y: -1.5}
+    - name: Soma Cruz_284
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 656
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_285
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 656
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_286
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 656
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_287
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 656
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_288
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 656
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_289
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 656
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_290
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 606
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -21.5}
+        - {x: 8, y: -21.5}
+        - {x: 25, y: -5.5}
+        - {x: 25, y: 21.5}
+        - {x: -4, y: 21.5}
+        - {x: -25, y: 6.5}
+    - name: Soma Cruz_291
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 606
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 21.5}
+        - {x: -31, y: 2.5}
+        - {x: -31, y: -21.5}
+        - {x: 3, y: -21.5}
+        - {x: 31, y: -0.5}
+        - {x: 31, y: 19.5}
+        - {x: 19, y: 21.5}
+    - name: Soma Cruz_292
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 604
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 21.5}
+        - {x: -24.5, y: 8.5}
+        - {x: -24.5, y: -21.5}
+        - {x: -2.5, y: -21.5}
+        - {x: 11.5, y: -16.5}
+        - {x: 24.5, y: 11.5}
+        - {x: 24.5, y: 21.5}
+      - - {x: 17.5, y: -1.5}
+        - {x: 17.5, y: -2.5}
+        - {x: 20.5, y: -5.5}
+        - {x: 24.5, y: -5.5}
+        - {x: 24.5, y: 2.5}
+        - {x: 22.5, y: 2.5}
+    - name: Soma Cruz_293
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 603
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 22}
+        - {x: -24.5, y: 7}
+        - {x: -24.5, y: -17}
+        - {x: -21.5, y: -22}
+        - {x: 9.5, y: -22}
+        - {x: 18.5, y: -19}
+        - {x: 24.5, y: 13}
+        - {x: 24.5, y: 22}
+      - - {x: -23.5, y: 22}
+        - {x: -24.5, y: 21}
+        - {x: -24.5, y: 11}
+        - {x: -22.5, y: 11}
+        - {x: -17.5, y: 16}
+        - {x: -17.5, y: 19}
+        - {x: -18.5, y: 21}
+    - name: Soma Cruz_294
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 568
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_295
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 569
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_296
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 569
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_297
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 569
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_298
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 569
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_299
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 569
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_300
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 569
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_301
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 569
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_302
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 569
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_303
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 515
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_304
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 515
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_305
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 515
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_306
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 515
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_307
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 515
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_308
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 515
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_309
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 513
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_310
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 513
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_311
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 513
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_312
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 513
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_313
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 513
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_314
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 462
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 22}
+        - {x: -23.5, y: 12}
+        - {x: -23.5, y: -9}
+        - {x: -15.5, y: -22}
+        - {x: 22.5, y: -22}
+        - {x: 23.5, y: -19}
+        - {x: 23.5, y: 22}
+    - name: Soma Cruz_315
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 462
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 22}
+        - {x: -23.5, y: 11}
+        - {x: -23.5, y: -5}
+        - {x: -14.5, y: -22}
+        - {x: 18.5, y: -22}
+        - {x: 18.5, y: -18}
+        - {x: 23.5, y: -6}
+        - {x: 23.5, y: 22}
+    - name: Soma Cruz_316
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 462
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -11}
+        - {x: 23, y: 22}
+        - {x: -17, y: 22}
+        - {x: -23, y: 21}
+        - {x: -23, y: 0}
+        - {x: -21, y: -1}
+        - {x: -8, y: -22}
+        - {x: 1, y: -22}
+        - {x: 3, y: -19}
+        - {x: 7, y: -22}
+        - {x: 21, y: -22}
+    - name: Soma Cruz_317
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 462
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 22}
+        - {x: -6, y: 22}
+        - {x: -19, y: 15}
+        - {x: -20, y: 9}
+        - {x: -20, y: -10}
+        - {x: -16, y: -22}
+        - {x: 17, y: -22}
+        - {x: 16, y: -18}
+        - {x: 20, y: -2}
+        - {x: 20, y: 17}
+    - name: Soma Cruz_318
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 462
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 22}
+        - {x: -19, y: 9}
+        - {x: -19, y: -11}
+        - {x: -16, y: -22}
+        - {x: 18, y: -22}
+        - {x: 19, y: -18}
+        - {x: 19, y: 22}
+    - name: Soma Cruz_319
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 462
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -18}
+        - {x: 23, y: 6}
+        - {x: 23, y: 16}
+        - {x: 21, y: 18}
+        - {x: 10, y: 22}
+        - {x: -6, y: 22}
+        - {x: -23, y: 13}
+        - {x: -23, y: -5}
+        - {x: -14, y: -22}
+        - {x: 1, y: -22}
+        - {x: 3, y: -19}
+        - {x: 7, y: -22}
+        - {x: 18, y: -22}
+    - name: Soma Cruz_320
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 415
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21}
+        - {x: -21, y: 10}
+        - {x: -21, y: -3}
+        - {x: -10, y: -21}
+        - {x: 11, y: -21}
+        - {x: 21, y: -6}
+        - {x: 21, y: 17}
+        - {x: 13, y: 21}
+    - name: Soma Cruz_321
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 415
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 21}
+        - {x: -1.5, y: 21}
+        - {x: -20.5, y: 7}
+        - {x: -20.5, y: -1}
+        - {x: -19.5, y: -2}
+        - {x: -8.5, y: -5}
+        - {x: -6.5, y: -5}
+        - {x: -7.5, y: -9}
+        - {x: -6.5, y: -18}
+        - {x: -3.5, y: -21}
+        - {x: 7.5, y: -21}
+        - {x: 20.5, y: -1}
+        - {x: 20.5, y: 16}
+    - name: Soma Cruz_322
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 415
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 21.5}
+        - {x: -19.5, y: 3.5}
+        - {x: -19.5, y: -7.5}
+        - {x: -6.5, y: -21.5}
+        - {x: 11.5, y: -21.5}
+        - {x: 19.5, y: -6.5}
+        - {x: 19.5, y: 14.5}
+        - {x: 9.5, y: 21.5}
+    - name: Soma Cruz_323
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 413
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_324
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 413
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 11}
+        - {x: 14.5, y: 21}
+        - {x: -2.5, y: 21}
+        - {x: -7.5, y: 19}
+        - {x: -17.5, y: 7}
+        - {x: -17.5, y: -3}
+        - {x: -2.5, y: -21}
+        - {x: 8.5, y: -21}
+        - {x: 9.5, y: -19}
+        - {x: 15.5, y: -6}
+        - {x: 17.5, y: 0}
+    - name: Soma Cruz_325
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 364
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 22.5}
+        - {x: -24, y: 15.5}
+        - {x: -24, y: -22.5}
+        - {x: 24, y: -22.5}
+        - {x: 24, y: 21.5}
+        - {x: 23, y: 22.5}
+    - name: Soma Cruz_326
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 327
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_327
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 328
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_328
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 327
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_329
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 327
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_330
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 326
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_331
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 326
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_332
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 327
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_333
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 326
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_334
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 279
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 20.5}
+        - {x: -18.5, y: 6.5}
+        - {x: -18.5, y: -3.5}
+        - {x: -17.5, y: -4.5}
+        - {x: -12.5, y: -6.5}
+        - {x: -15.5, y: -13.5}
+        - {x: -11.5, y: -20.5}
+        - {x: -2.5, y: -20.5}
+        - {x: 18.5, y: 1.5}
+        - {x: 18.5, y: 10.5}
+        - {x: 12.5, y: 20.5}
+    - name: Soma Cruz_335
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 279
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 20.5}
+        - {x: -18, y: 7.5}
+        - {x: -18, y: -18.5}
+        - {x: -14, y: -20.5}
+        - {x: -1, y: -20.5}
+        - {x: 18, y: 1.5}
+        - {x: 18, y: 20.5}
+    - name: Soma Cruz_336
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 279
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_337
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 278
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_338
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 278
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_339
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 278
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_340
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 278
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_341
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 276
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_342
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 223
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_343
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 223
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_344
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 223
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_345
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 223
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 22}
+        - {x: -16, y: 5}
+        - {x: -16, y: -14}
+        - {x: -11, y: -21}
+        - {x: -10, y: -22}
+        - {x: 14, y: -22}
+        - {x: 16, y: -16}
+        - {x: 16, y: 13}
+        - {x: 6, y: 22}
+    - name: Soma Cruz_346
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 223
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 12}
+        - {x: 9, y: 21}
+        - {x: 7, y: 22}
+        - {x: -3, y: 22}
+        - {x: -14, y: 9}
+        - {x: -16, y: 4}
+        - {x: -16, y: -15}
+        - {x: -13, y: -22}
+        - {x: 12, y: -22}
+        - {x: 14, y: -20}
+        - {x: 15, y: -4}
+        - {x: 16, y: -1}
+    - name: Soma Cruz_347
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 223
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 24}
+        - {x: -10, y: 24}
+        - {x: -14, y: 19}
+        - {x: -11, y: 16}
+        - {x: -8, y: 15}
+        - {x: -15, y: 7}
+        - {x: -14, y: 3}
+        - {x: -16, y: -2}
+        - {x: -16, y: -19}
+        - {x: -13, y: -24}
+        - {x: 14, y: -24}
+        - {x: 14, y: -22}
+        - {x: 16, y: -13}
+        - {x: 16, y: 12}
+    - name: Soma Cruz_348
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 224
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_349
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 224
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_350
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 171
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_351
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 171
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_352
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 170
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 21.5}
+        - {x: -16.5, y: 12.5}
+        - {x: -16.5, y: -18.5}
+        - {x: -10.5, y: -21.5}
+        - {x: 16.5, y: -21.5}
+        - {x: 16.5, y: 4.5}
+        - {x: -0.5, y: 21.5}
+    - name: Soma Cruz_353
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 170
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 21.5}
+        - {x: -16.5, y: 13.5}
+        - {x: -16.5, y: -18.5}
+        - {x: -14.5, y: -21.5}
+        - {x: 16.5, y: -21.5}
+        - {x: 16.5, y: 7.5}
+        - {x: -0.5, y: 21.5}
+    - name: Soma Cruz_354
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 170
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_355
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 170
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_356
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 170
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_357
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 170
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_358
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 170
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_359
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 170
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_360
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 171
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 17}
+        - {x: -2, y: 17}
+        - {x: -7, y: 15}
+        - {x: -14, y: 9}
+        - {x: -16, y: -1}
+        - {x: -16, y: -17}
+        - {x: 15, y: -17}
+        - {x: 16, y: -16}
+        - {x: 16, y: 9}
+        - {x: 11, y: 15}
+    - name: Soma Cruz_361
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 169
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 18.5}
+        - {x: -16.5, y: 11.5}
+        - {x: -16.5, y: -18.5}
+        - {x: 14.5, y: -18.5}
+        - {x: 16.5, y: -10.5}
+        - {x: 16.5, y: 11.5}
+        - {x: 9.5, y: 18.5}
+    - name: Soma Cruz_362
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 170
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 17.5}
+        - {x: -5.5, y: 17.5}
+        - {x: -16.5, y: 11.5}
+        - {x: -16.5, y: -17.5}
+        - {x: 12.5, y: -17.5}
+        - {x: 14.5, y: -15.5}
+        - {x: 16.5, y: -8.5}
+        - {x: 16.5, y: 9.5}
+    - name: Soma Cruz_363
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 116
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_364
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 116
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_365
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 116
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 21.5}
+        - {x: -16.5, y: 10.5}
+        - {x: -16.5, y: -21.5}
+        - {x: 12.5, y: -21.5}
+        - {x: 16.5, y: -3.5}
+        - {x: 16.5, y: 4.5}
+        - {x: -0.5, y: 21.5}
+    - name: Soma Cruz_366
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 120
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 18}
+        - {x: -21, y: -8}
+        - {x: -12, y: -18}
+        - {x: 20, y: -18}
+        - {x: 21, y: -15}
+        - {x: 21, y: 10}
+        - {x: 11, y: 18}
+    - name: Soma Cruz_367
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 121
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 16.5}
+        - {x: -22, y: 4.5}
+        - {x: -15, y: -6.5}
+        - {x: -4, y: -16.5}
+        - {x: 13, y: -16.5}
+        - {x: 22, y: -9.5}
+        - {x: 22, y: 9.5}
+        - {x: 18, y: 16.5}
+    - name: Soma Cruz_368
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 122
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_369
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 122
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_370
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 86
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_371
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 84
+        width: 53
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_372
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 86
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_373
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 84
+        width: 178
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_374
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 79
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_375
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 86
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_376
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 79
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Soma Cruz_377
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3
+        width: 394
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -140, y: 33}
+        - {x: -194, y: -24}
+        - {x: -197, y: -29}
+        - {x: -197, y: -33}
+        - {x: 141, y: -33}
+        - {x: 197, y: 26}
+        - {x: 197, y: 33}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

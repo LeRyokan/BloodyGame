@@ -1,0 +1,105 @@
+fileFormatVersion: 2
+guid: ff54b5349af8f5f4ea35662fa514c497
+timeCreated: 1473701867
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DS - Castlevania Order of Ecclesia - Wygol Village copy_0
+    21300002: DS - Castlevania Order of Ecclesia - Wygol Village copy_1
+    21300004: DS - Castlevania Order of Ecclesia - Wygol Village copy_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DS - Castlevania Order of Ecclesia - Wygol Village copy_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 256
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 96}
+        - {x: -128, y: -96}
+        - {x: 128, y: -96}
+        - {x: 128, y: 96}
+    - name: DS - Castlevania Order of Ecclesia - Wygol Village copy_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 256
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 117.5}
+        - {x: -128, y: -117.5}
+        - {x: 128, y: -117.5}
+        - {x: 128, y: 117.5}
+    - name: DS - Castlevania Order of Ecclesia - Wygol Village copy_2
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 416
+        width: 201
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.5, y: 128}
+        - {x: -100.5, y: -128}
+        - {x: 100.5, y: -128}
+        - {x: 100.5, y: 128}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
