@@ -42,6 +42,8 @@ public class MonsterAIScript : MonoBehaviour {
     {
         Debug.Log("ARK");
         health -= damage;
+        //TO DO A AMELIORER
+        playerStatus.hasLandedHit();
     }
 
     void OnTriggerEnter2D(Collider2D other)

@@ -1,32 +1,52 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
+using System.Collections.Generic;
 
-public class PlayerStatusScript : MonoBehaviour {
+public class PlayerStatusScript : MonoBehaviour
+{
 
-    [SerializeField]
-    GameObject playerGameObject;
+   // [SerializeField]
+   // public GameObject playerGameObject;
+
+    //[SerializeField]
+   // Image healthBar;
+
+    RectMask2D healthMask;
+
+    public List<Item> consomableList;
 
     public int health;
-    public int healthbuffer;
+    public int healthBuffer;
+    public int healthMax;
     public int life;
     public int damage;
     public bool isDead = false;
+    public int valueToAdd;
     void Start()
     {
         health = 100;
+        healthMax = health;
+        healthBuffer = health;
         life = 2;
         damage = 40;
+        valueToAdd = 10;
+        //AUTANT ETRE SALEEEEEEE
+        consomableList = new List<Item>();
+        
+        Item myItem = new Potion();
+        consomableList.Add(myItem);
     }
 
-	
-	
-	// Update is called once per frame
+
+
+    // Update is called once per frame
     void Update()
     {
-        if(health<=0)
+        if (health <= 0)
         {
             Debug.Log("JE MEURT AAAAAAAAH !");
-            Destroy(playerGameObject);
+            Destroy(this.gameObject);
 
             //On arrete le jeu
             isDead = true;
@@ -36,31 +56,82 @@ public class PlayerStatusScript : MonoBehaviour {
 
     public void GetHit(int damage)
     {
+        StopCoroutine("degenLifeBuffer");
         Debug.Log("J'ai pris un coup je crois");
+        healthBuffer = health;
         health -= damage;
+        //healthMask.PerformClipping();
+        StartCoroutine("degenLifeBuffer");
     }
 
 
 
     // BLOODBORN MECHANICS SECTION //
-
-    public void lifeBuffer(int actualhealth,int damage)
+    public void hasLandedHit()
     {
-        healthbuffer = actualhealth;
-        health -= damage;
 
-        if (hit)
+        if (health + valueToAdd > healthBuffer)
         {
-            if(health+5>healthbuffer)
-            {
-                health += 5;
-            }
-            
+            health = healthBuffer;
+        }
+        else
+        {
+            health += 10;
         }
 
     }
 
+    /// <summary>
+    /// SECTION DU HEAL
+    /// </summary>
+    /// <returns></returns>
+    /// 
+    #region HEAL
 
+    public void regenInstant(int healthRegen)
+    {
+        if(health + healthRegen > healthMax)
+        {
+            health = healthMax;
+        }
+        else
+        {
+            health += healthRegen;
+        }
+       
+    }
+
+   /* void regenDuringTime(int healthRegen, int time)
+    {
+        StartCoroutine("regenDuringTimeCo");
+    
+    }
+
+    IEnumerator regenDuringTime(int healthRegen, int time)
+    {
+        int hpPerSec = 0;
+        int actualtime = 0;
+        hpPerSec = healthRegen / time;
+
+        while (actualtime != time)
+        {
+            yield return new WaitforSeconds(1);
+            health += hpPerSec;
+            actualtime++;
+        }
+    }
+    */
+
+    #endregion
+
+
+
+    IEnumerator degenLifeBuffer()
+    {
+
+        yield return new WaitForSeconds(3.0f);
+        healthBuffer = health;
+    }
 
 
 

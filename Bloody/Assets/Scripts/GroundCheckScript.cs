@@ -22,7 +22,7 @@ public class GroundCheckScript : MonoBehaviour {
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log("CONTACT");
+       // Debug.Log("CONTACT");
         player.grounded = true;
     }
 
@@ -33,7 +33,7 @@ public class GroundCheckScript : MonoBehaviour {
 
     void OnTriggerExit2D(Collider2D other)
     {
-        Debug.Log("JE M'ENVOLE");
+        //Debug.Log("JE M'ENVOLE");
         player.grounded = false;
     }
 }
