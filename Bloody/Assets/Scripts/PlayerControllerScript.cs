@@ -1,6 +1,13 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+enum playerState
+{
+    STAND,
+    CROUCH,
+}
+
+
 public class PlayerControllerScript : MonoBehaviour {
 
     [SerializeField]
@@ -18,10 +25,14 @@ public class PlayerControllerScript : MonoBehaviour {
     [SerializeField]
     GameObject attackCollider;
 
-    
+    Collider2D playerCollider;
+
     PlayerStatusScript playerStatus;
 
     private BoxCollider2D attackColliderBox;
+
+    //Input LastKeyPressed;
+    KeyCode LastKeyPressed;
 
     private Vector2 jumpForceV2;
     private Vector2 moveForceV2;
@@ -39,23 +50,25 @@ public class PlayerControllerScript : MonoBehaviour {
     public float velocityY = 0.0f;
     public bool grounded;
     public bool isDashing;
-
+    public bool isSprinting;
     public bool rdyToHit;
-
-
-
 
     float horizontalValue;
     float verticalValue;
     float timePressed = 0.0f;
     float timeRelease = 0.0f;
 
+    RaycastHit2D raycast;
+
+
     void Start ()
     {
+        playerCollider = GetComponent<BoxCollider2D>();
         attackColliderBox = attackCollider.GetComponent<BoxCollider2D>();
         attackCollider.SetActive(false);
         rdyToHit = true;
         grounded = false;
+        isSprinting = false;
         jumpForceV2 = new Vector2(0, 1) * jumpForce;
         dashForce = new Vector2(0, 0);
         playerStatus = GetComponent<PlayerStatusScript>();
@@ -67,47 +80,12 @@ public class PlayerControllerScript : MonoBehaviour {
 
     // Update is called once per frame
     void FixedUpdate() {
-   
+       raycast = new RaycastHit2D();
+       raycast = Physics2D.Raycast(playerCollider.transform.position, new Vector2(playerCollider.transform.position.x + 10, 0));
+
         horizontalValue = Input.GetAxis("Horizontal");
         verticalValue = Input.GetAxis("Vertical");
         velocityX = 0;
-
-        if (!isDashing)
-        {
-            
-            //Déplacement droite - gauche
-            if (horizontalValue > 0.2f)
-            {
-                velocityX = speed * horizontalValue;
-                sprite.flipX = false;
-                if(attackColliderBox.offset.x < 0)
-                {
-                    attackColliderBox.offset = new Vector2(-attackColliderBox.offset.x, attackColliderBox.offset.y);
-                }
-                    
-               
-                    
-                
-
-            }
-            else if (horizontalValue < -0.2f)
-            {
-                velocityX = speed * horizontalValue;
-                sprite.flipX = true;
-                if(attackColliderBox.offset.x>0)
-                {
-                    attackColliderBox.offset = new Vector2(-attackColliderBox.offset.x, attackColliderBox.offset.y);
-                }
-            }
-            else if(verticalValue>0.2f)
-                {
-                Debug.Log("Crouuch");
-            }
-        }
-
-        rigid.velocity = new Vector2(velocityX, rigid.velocity.y);
-
-
 
         //Saut
         if ( Input.GetKeyDown(KeyCode.Joystick1Button1) && grounded)
@@ -132,18 +110,47 @@ public class PlayerControllerScript : MonoBehaviour {
             
             
         }
-            //Attaque au sol
-        else if (Input.GetKeyDown(KeyCode.Joystick1Button2) && rdyToHit)
-        {
-            StartCoroutine("attackReload");
-        }
-            //Bigger Attaque
 
+        #region ATTAQUE REG
+
+        
+            //Bigger Attaque
         else if (Input.GetKeyDown(KeyCode.Joystick1Button5))
         {
             Debug.Log("Big Attack");
         }
-            //Dash arrière
+
+        else if ((Input.GetKey(KeyCode.Joystick1Button2) && Mathf.Abs(horizontalValue) > 0.30 && Mathf.Abs(rigid.velocity.x) <0.5f) && rdyToHit)
+        {
+
+            Debug.Log("Jump Attack");
+            StartCoroutine("stunAttack");
+        }
+
+        //Attaque au sol
+       
+        ///TODO A REVOIR
+        else if (Input.GetKeyDown(KeyCode.Joystick1Button2) && rdyToHit && LastKeyPressed == KeyCode.Joystick1Button2)
+        {
+            Debug.Log("COMBO !");
+            Debug.Log(rigid.velocity.x);
+            LastKeyPressed = KeyCode.Joystick1Button2;
+
+            StartCoroutine("attackReload");
+        }
+
+        else if (Input.GetKeyDown(KeyCode.Joystick1Button2) && rdyToHit)
+        {
+            Debug.Log("HIRU" + Mathf.Abs(horizontalValue));
+            Debug.Log(rigid.velocity.x);
+            LastKeyPressed = KeyCode.Joystick1Button2;
+
+            StartCoroutine("attackReload");
+        }
+
+        #endregion
+
+        //Dash arrière
         else if (Input.GetKeyDown(KeyCode.Joystick1Button4))
         {
             Debug.Log("Dash");
@@ -166,6 +173,8 @@ public class PlayerControllerScript : MonoBehaviour {
         else if (Input.GetKeyDown(KeyCode.Joystick1Button6))
         {
             //on affiche le menu 
+            //On pause le jeu
+            Time.timeScale = 0.0f;
 
         }
 
@@ -178,6 +187,57 @@ public class PlayerControllerScript : MonoBehaviour {
 
 
 
+        if (!isDashing)
+        {
+
+            //Déplacement droite - gauche
+            if (horizontalValue > 0.2f)
+            {
+                velocityX = speed * horizontalValue;
+                sprite.flipX = false;
+                if (attackColliderBox.offset.x < 0)
+                {
+                    attackColliderBox.offset = new Vector2(-attackColliderBox.offset.x, attackColliderBox.offset.y);
+                }
+
+
+
+
+
+            }
+            else if (horizontalValue < -0.2f)
+            {
+                velocityX = speed * horizontalValue;
+                sprite.flipX = true;
+                if (attackColliderBox.offset.x > 0)
+                {
+                    attackColliderBox.offset = new Vector2(-attackColliderBox.offset.x, attackColliderBox.offset.y);
+                }
+            }
+            else if (verticalValue > 0.2f)
+            {
+                Debug.Log("Crouuch");
+            }
+        }
+
+       
+        //Sprint
+        if (Input.GetKey(KeyCode.Joystick1Button0) && grounded)
+        {
+            if(!isSprinting)
+            {
+                isSprinting = true; 
+            }
+
+            velocityX = velocityX * 1.5f;
+        }
+        if(Input.GetKeyUp(KeyCode.Joystick1Button0))
+        {
+            isSprinting = false; 
+        }
+
+        rigid.velocity = new Vector2(velocityX, rigid.velocity.y);
+
 
         animator.SetFloat("VelocityY", rigid.velocity.y);
     }
@@ -189,7 +249,7 @@ public class PlayerControllerScript : MonoBehaviour {
         // Debug.Log(rigid.velocity.ToString());
         animator.SetFloat("VelocityX", Mathf.Abs(Input.GetAxis("Horizontal")));
         animator.SetBool("Grounded", grounded);
-
+        animator.SetBool("Sprint", isSprinting);
     }
 
 
@@ -224,6 +284,17 @@ public class PlayerControllerScript : MonoBehaviour {
         isDashing = false; 
     }
 
+    IEnumerator stunAttack()
+    {
 
+        
+        yield return new WaitForSeconds(0.2f);
+    }
 
+   /* void OnDrawGizmos()
+    {
+        //Gizmos.DrawRay(new Vector3(raycast.centroid.x, raycast.centroid.y, 0), new Vector3(raycast.point.x, raycast.point.y, 0));
+        Gizmos.DrawRay(new Vector2(raycast.transform.position.x+ playerCollider.bounds.extents.x, raycast.transform.position.y+playerCollider.bounds.extents.y), Vector2.right);
+    }*/
 }
+

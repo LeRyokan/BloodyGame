@@ -6,7 +6,7 @@ using System.Collections.Generic;
 public class ItemManagerScript : MonoBehaviour {
 
     List<Item> allObjectsList;
-    
+    List<Item> playerItemList;
 
 
 	// Use this for initialization
@@ -15,6 +15,7 @@ public class ItemManagerScript : MonoBehaviour {
         allObjectsList = new List<Item>();
 
         //Listing de tous les items
+        
         allObjectsList.Add(new Potion());
 
 	}
@@ -23,4 +24,9 @@ public class ItemManagerScript : MonoBehaviour {
 	void Update () {
 	
 	}
+
+    void AddItemToList(Item item)
+    {
+        playerItemList.Add(item);
+    }
 }

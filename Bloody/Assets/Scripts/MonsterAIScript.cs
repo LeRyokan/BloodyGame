@@ -16,12 +16,21 @@ public class MonsterAIScript : MonoBehaviour {
     public int health;
     public int damage;
     public bool isDead;
+    public int stageringThreshold;
+    public int stagerBuffer;
+    public bool isHit;
+    float initialStagerTime;
 
     // Use this for initialization
     void Start () {
+
         isDead = false;
         health = 40;
         damage = 10;
+        stagerBuffer = 0;
+        initialStagerTime = 0.0f;
+        stageringThreshold = 20;
+        isHit = false;
         playerStatus = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerStatusScript>();
         enemytransform.position = new Vector2(Random.Range(0, 20), Random.Range(0, 20));
 	}
@@ -41,9 +50,24 @@ public class MonsterAIScript : MonoBehaviour {
     public void GetHit(int damage)
     {
         Debug.Log("ARK");
+
+        isHit = true;
         health -= damage;
-        //TO DO A AMELIORER
         playerStatus.hasLandedHit();
+
+        
+        stagerBuffer += damage;
+        if (stagerBuffer >= stageringThreshold)
+        {
+            Debug.Log("ENEMY STUN !");
+            StopCoroutine("Stagerring");
+            stagerBuffer = 0;
+        }
+        else
+        {
+            StartCoroutine("Staggering" , damage);
+        }
+       
     }
 
     void OnTriggerEnter2D(Collider2D other)
@@ -60,4 +84,15 @@ public class MonsterAIScript : MonoBehaviour {
             GetHit(playerStatus.damage);
         }
     }
+
+
+    IEnumerator Staggering(int damage)
+    {
+  
+        yield return new WaitForSeconds(3.0f);
+        stagerBuffer -= damage;
+    }
+
+    
+
 }

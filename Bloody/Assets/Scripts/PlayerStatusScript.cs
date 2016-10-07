@@ -6,12 +6,13 @@ using System.Collections.Generic;
 public class PlayerStatusScript : MonoBehaviour
 {
 
-   // [SerializeField]
-   // public GameObject playerGameObject;
+    // [SerializeField]
+    // public GameObject playerGameObject;
 
     //[SerializeField]
-   // Image healthBar;
+    // Image healthBar;
 
+    CameraControllerScript mainCamera;
     RectMask2D healthMask;
 
     public List<Item> consomableList;
@@ -25,11 +26,12 @@ public class PlayerStatusScript : MonoBehaviour
     public int valueToAdd;
     void Start()
     {
+        mainCamera =  GameObject.FindGameObjectWithTag("MainCamera").GetComponent<CameraControllerScript>();
         health = 100;
         healthMax = health;
         healthBuffer = health;
         life = 2;
-        damage = 40;
+        damage = 10;
         valueToAdd = 10;
         //AUTANT ETRE SALEEEEEEE
         consomableList = new List<Item>();
@@ -56,6 +58,7 @@ public class PlayerStatusScript : MonoBehaviour
 
     public void GetHit(int damage)
     {
+        mainCamera.ShakeCamera(0.5f, 0.3f);
         StopCoroutine("degenLifeBuffer");
         Debug.Log("J'ai pris un coup je crois");
         healthBuffer = health;
