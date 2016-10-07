@@ -17,16 +17,22 @@ public class PlayerStatusScript : MonoBehaviour
 
     public List<Item> consomableList;
 
+
+    public float staminaMax;
+    public float stamina;
     public int health;
     public int healthBuffer;
     public int healthMax;
     public int life;
     public int damage;
     public bool isDead = false;
+    public bool isHit = false;
     public int valueToAdd;
     void Start()
     {
         mainCamera =  GameObject.FindGameObjectWithTag("MainCamera").GetComponent<CameraControllerScript>();
+        staminaMax = 70.0f;
+        stamina = staminaMax;
         health = 100;
         healthMax = health;
         healthBuffer = health;
@@ -58,6 +64,7 @@ public class PlayerStatusScript : MonoBehaviour
 
     public void GetHit(int damage)
     {
+        isHit = true;
         mainCamera.ShakeCamera(0.5f, 0.3f);
         StopCoroutine("degenLifeBuffer");
         Debug.Log("J'ai pris un coup je crois");
@@ -79,7 +86,7 @@ public class PlayerStatusScript : MonoBehaviour
         }
         else
         {
-            health += 10;
+            health += 5;
         }
 
     }
@@ -134,6 +141,7 @@ public class PlayerStatusScript : MonoBehaviour
 
         yield return new WaitForSeconds(3.0f);
         healthBuffer = health;
+        isHit = false; 
     }
 
 

@@ -52,6 +52,7 @@ public class PlayerControllerScript : MonoBehaviour {
     public bool isDashing;
     public bool isSprinting;
     public bool rdyToHit;
+   
 
     float horizontalValue;
     float verticalValue;
@@ -69,6 +70,7 @@ public class PlayerControllerScript : MonoBehaviour {
         rdyToHit = true;
         grounded = false;
         isSprinting = false;
+        
         jumpForceV2 = new Vector2(0, 1) * jumpForce;
         dashForce = new Vector2(0, 0);
         playerStatus = GetComponent<PlayerStatusScript>();
@@ -185,8 +187,6 @@ public class PlayerControllerScript : MonoBehaviour {
 
         }
 
-
-
         if (!isDashing)
         {
 
@@ -199,10 +199,6 @@ public class PlayerControllerScript : MonoBehaviour {
                 {
                     attackColliderBox.offset = new Vector2(-attackColliderBox.offset.x, attackColliderBox.offset.y);
                 }
-
-
-
-
 
             }
             else if (horizontalValue < -0.2f)
@@ -220,21 +216,24 @@ public class PlayerControllerScript : MonoBehaviour {
             }
         }
 
-       
+
+        if (isSprinting)
+        {
+            isSprinting = false;
+        }
+
         //Sprint
-        if (Input.GetKey(KeyCode.Joystick1Button0) && grounded)
+        if (Input.GetKey(KeyCode.Joystick1Button0) && grounded && playerStatus.stamina>0)
         {
             if(!isSprinting)
             {
                 isSprinting = true; 
             }
-
+            playerStatus.stamina -= 0.3f;
             velocityX = velocityX * 1.5f;
         }
-        if(Input.GetKeyUp(KeyCode.Joystick1Button0))
-        {
-            isSprinting = false; 
-        }
+
+        
 
         rigid.velocity = new Vector2(velocityX, rigid.velocity.y);
 
@@ -250,6 +249,19 @@ public class PlayerControllerScript : MonoBehaviour {
         animator.SetFloat("VelocityX", Mathf.Abs(Input.GetAxis("Horizontal")));
         animator.SetBool("Grounded", grounded);
         animator.SetBool("Sprint", isSprinting);
+        if(!isSprinting && playerStatus.stamina != playerStatus.staminaMax)
+        {
+            Debug.Log("STAMINA REGEN !");
+            if(playerStatus.stamina+1>playerStatus.staminaMax)
+            {
+                playerStatus.stamina = playerStatus.staminaMax;
+            }
+            else
+            {
+                playerStatus.stamina += 1;
+            }
+            
+        }
     }
 
 
