@@ -52,7 +52,11 @@ public class PlayerControllerScript : MonoBehaviour {
     public bool isDashing;
     public bool isSprinting;
     public bool rdyToHit;
-   
+    
+
+    public int property;
+    
+
 
     float horizontalValue;
     float verticalValue;
@@ -77,6 +81,8 @@ public class PlayerControllerScript : MonoBehaviour {
         dashForce.x = -30000.0f;
         
         timePressed = 0.0f;
+
+        property = 10;
     }
    
 
@@ -184,7 +190,7 @@ public class PlayerControllerScript : MonoBehaviour {
         if (Input.GetKey(KeyCode.D))
         {
             Debug.Log(rigid.velocity.ToString());
-
+            playerStatus.IncreaseHealthMax(50);
         }
 
         if (!isDashing)
@@ -308,5 +314,47 @@ public class PlayerControllerScript : MonoBehaviour {
         //Gizmos.DrawRay(new Vector3(raycast.centroid.x, raycast.centroid.y, 0), new Vector3(raycast.point.x, raycast.point.y, 0));
         Gizmos.DrawRay(new Vector2(raycast.transform.position.x+ playerCollider.bounds.extents.x, raycast.transform.position.y+playerCollider.bounds.extents.y), Vector2.right);
     }*/
+
+    ///GETTER SETTER
+    /// 
+
+    public bool GetGrounded()
+    {
+        return grounded;
+    }
+
+    public void SetGrounded(bool value)
+    {
+         grounded = value;
+    }
+
+    public bool GetIsSprinting()
+    {
+        return isSprinting;
+    }
+
+    public void SetIsSprinting(bool value)
+    {
+        isSprinting = value;
+    }
+
+    public bool GetIsDashing()
+    {
+        return isDashing;
+    }
+    public void SetDashing(bool value)
+    {
+        isDashing = value;
+    }
+
+    public bool GetRdyToHit()
+    {
+        return rdyToHit;
+    }
+
+    public void SetRdyToHit(bool value)
+    {
+        rdyToHit = value;
+    }
 }
 

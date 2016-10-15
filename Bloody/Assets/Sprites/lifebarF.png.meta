@@ -1,11 +1,11 @@
 fileFormatVersion: 2
 guid: d9834b2a1819fd449831e87d32d7e61a
-timeCreated: 1475431195
+timeCreated: 1476124117
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: lifebarF_0
-    21300002: lifebarF_1
+    21300002: white_line
     21300004: lifebarF_2
     21300006: lifebarF_3
     21300008: lifebarF_4
@@ -76,12 +76,12 @@ TextureImporter:
       outline: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: lifebarF_1
+      name: white_line
       rect:
         serializedVersion: 2
-        x: 3
+        x: 7
         y: 1
-        width: 8
+        width: 1
         height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}

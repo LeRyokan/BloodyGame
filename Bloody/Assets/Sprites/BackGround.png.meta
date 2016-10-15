@@ -1,9 +1,11 @@
 fileFormatVersion: 2
-guid: 0e300db99adb83a42ac5db3ccee67e48
-timeCreated: 1473699543
+guid: aa54e6527665ec143a9019980db2da37
+timeCreated: 1476120751
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: BackGround_0
+    21300002: plateform
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -50,13 +52,39 @@ TextureImporter:
   textureType: 8
   buildTargetSettings:
   - buildTarget: Standalone
-    maxTextureSize: 8192
-    textureFormat: -3
+    maxTextureSize: 2048
+    textureFormat: -1
     compressionQuality: 50
     allowsAlphaSplitting: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: BackGround_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 1025
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: plateform
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 122
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 

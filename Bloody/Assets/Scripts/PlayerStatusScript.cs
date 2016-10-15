@@ -13,7 +13,7 @@ public class PlayerStatusScript : MonoBehaviour
     // Image healthBar;
 
     CameraControllerScript mainCamera;
-    RectMask2D healthMask;
+   
 
     public List<Item> consomableList;
 
@@ -28,8 +28,12 @@ public class PlayerStatusScript : MonoBehaviour
     public bool isDead = false;
     public bool isHit = false;
     public int valueToAdd;
+
     void Start()
     {
+        //A MEDITER POUR GARDER LES INFOS ALIVE ! 
+
+        DontDestroyOnLoad(this.gameObject);
         mainCamera =  GameObject.FindGameObjectWithTag("MainCamera").GetComponent<CameraControllerScript>();
         staminaMax = 70.0f;
         stamina = staminaMax;
@@ -132,6 +136,18 @@ public class PlayerStatusScript : MonoBehaviour
     }
     */
 
+    public void IncreaseHealthMax(int healAmount)
+    {
+        healthMax += healAmount;
+        health = healthMax;
+        healthBuffer = healthMax;
+    }
+
+    public void IncreaseStaminaMax(int staminaAmount)
+    {
+        staminaMax += staminaAmount;
+        stamina = staminaMax;
+    }
     #endregion
 
 
@@ -145,5 +161,8 @@ public class PlayerStatusScript : MonoBehaviour
     }
 
 
-
+    void OnDestroy()
+    {
+        
+    }
 }
