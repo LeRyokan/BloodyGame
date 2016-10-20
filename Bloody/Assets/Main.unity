@@ -329,7 +329,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &112366122
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -341,7 +341,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 232cd97fc024c7b4eb21f1f308b524ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  platformTriggerCollider: {fileID: 0}
+  platformTriggerCollider: {fileID: 112366123}
   platformCollider: {fileID: 112366124}
 --- !u!61 &112366123
 BoxCollider2D:
@@ -513,7 +513,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &120346535
 Transform:
   m_ObjectHideFlags: 0
@@ -1269,7 +1269,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &247454762
 Transform:
   m_ObjectHideFlags: 0
@@ -1306,7 +1306,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_Offset: {x: 0.00000035762787, y: 0.0013039112}
   serializedVersion: 2
@@ -2081,7 +2081,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &380405007
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2093,7 +2093,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 232cd97fc024c7b4eb21f1f308b524ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  platformTriggerCollider: {fileID: 0}
+  platformTriggerCollider: {fileID: 380405008}
   platformCollider: {fileID: 380405009}
 --- !u!61 &380405008
 BoxCollider2D:
@@ -3237,6 +3237,7 @@ GameObject:
   - 212: {fileID: 803216697}
   - 50: {fileID: 803216695}
   - 61: {fileID: 803216698}
+  - 61: {fileID: 803216701}
   - 95: {fileID: 803216699}
   m_Layer: 0
   m_Name: Player
@@ -3294,6 +3295,7 @@ MonoBehaviour:
   animator: {fileID: 803216699}
   sprite: {fileID: 803216697}
   attackCollider: {fileID: 120346534}
+  crouchPlayerCollider: {fileID: 803216701}
   jumpForce: 1200
   speed: 10
   gravity: 0
@@ -3303,6 +3305,7 @@ MonoBehaviour:
   isDashing: 0
   isSprinting: 0
   rdyToHit: 0
+  isCrouch: 0
   property: 0
 --- !u!212 &803216697
 SpriteRenderer:
@@ -3388,7 +3391,22 @@ MonoBehaviour:
   damage: 0
   isDead: 0
   isHit: 0
+  isCrouch: 0
   valueToAdd: 0
+--- !u!61 &803216701
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 803216693}
+  m_Enabled: 0
+  m_Density: 1
+  m_Material: {fileID: 6200000, guid: 1911b2a522dabe9458352bce9b0a0d91, type: 2}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_Offset: {x: 0.000000011920929, y: -0.109554626}
+  serializedVersion: 2
+  m_Size: {x: 0.18669052, y: 0.20825759}
 --- !u!1 &838347113
 GameObject:
   m_ObjectHideFlags: 0
@@ -4689,13 +4707,14 @@ GameObject:
   - 61: {fileID: 1243513501}
   - 61: {fileID: 1243513505}
   - 114: {fileID: 1243513504}
+  - 251: {fileID: 1243513506}
   m_Layer: 0
   m_Name: plateform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!61 &1243513501
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4767,7 +4786,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 232cd97fc024c7b4eb21f1f308b524ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  platformTriggerCollider: {fileID: 0}
+  platformTriggerCollider: {fileID: 1243513505}
   platformCollider: {fileID: 1243513501}
 --- !u!61 &1243513505
 BoxCollider2D:
@@ -4780,9 +4799,26 @@ BoxCollider2D:
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_UsedByEffector: 0
-  m_Offset: {x: 0, y: -0.012926149}
+  m_Offset: {x: -0.0020510198, y: -0.012926149}
   serializedVersion: 2
-  m_Size: {x: 0.3313129, y: 0.053883076}
+  m_Size: {x: 0.33541495, y: 0.053883076}
+--- !u!251 &1243513506
+PlatformEffector2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1243513500}
+  m_Enabled: 0
+  m_UseColliderMask: 1
+  m_ColliderMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_UseOneWay: 1
+  m_UseOneWayGrouping: 0
+  m_SurfaceArc: 180
+  m_UseSideFriction: 0
+  m_UseSideBounce: 0
+  m_SideArc: 1
 --- !u!1 &1267952515
 GameObject:
   m_ObjectHideFlags: 0
@@ -5559,7 +5595,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1566701433
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5571,7 +5607,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 232cd97fc024c7b4eb21f1f308b524ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  platformTriggerCollider: {fileID: 0}
+  platformTriggerCollider: {fileID: 1566701434}
   platformCollider: {fileID: 1566701435}
 --- !u!61 &1566701434
 BoxCollider2D:
@@ -6171,7 +6207,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1659321835
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6183,7 +6219,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 232cd97fc024c7b4eb21f1f308b524ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  platformTriggerCollider: {fileID: 0}
+  platformTriggerCollider: {fileID: 1659321836}
   platformCollider: {fileID: 1659321837}
 --- !u!61 &1659321836
 BoxCollider2D:
@@ -6668,7 +6704,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!61 &1825363137
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6842,7 +6878,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1889569533
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6854,7 +6890,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 232cd97fc024c7b4eb21f1f308b524ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  platformTriggerCollider: {fileID: 0}
+  platformTriggerCollider: {fileID: 1889569534}
   platformCollider: {fileID: 1889569535}
 --- !u!61 &1889569534
 BoxCollider2D:
@@ -7662,7 +7698,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &2033314484
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7674,7 +7710,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 232cd97fc024c7b4eb21f1f308b524ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  platformTriggerCollider: {fileID: 0}
+  platformTriggerCollider: {fileID: 2033314485}
   platformCollider: {fileID: 2033314486}
 --- !u!61 &2033314485
 BoxCollider2D:

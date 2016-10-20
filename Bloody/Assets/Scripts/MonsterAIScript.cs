@@ -9,10 +9,12 @@ public class MonsterAIScript : MonoBehaviour {
     [SerializeField]
     GameObject enemy;
    
+    [SerializeField]
+    Rigidbody2D enemyRigid;
 
     PlayerStatusScript playerStatus;
 
-
+    Transform playerTransform;
     public int health;
     public int damage;
     public bool isDead;
@@ -32,7 +34,9 @@ public class MonsterAIScript : MonoBehaviour {
         stageringThreshold = 20;
         isHit = false;
         playerStatus = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerStatusScript>();
-        enemytransform.position = new Vector2(Random.Range(0, 20), Random.Range(0, 20));
+        playerTransform = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
+        
+        enemytransform.position = new Vector2(Random.Range(0, 20), Random.Range(5, 15));
 	}
 	
 	// Update is called once per frame
@@ -46,6 +50,11 @@ public class MonsterAIScript : MonoBehaviour {
             
         }
 	}
+
+    void FixedUpdate()
+    {
+        IA();
+    }
 
     public void GetHit(int damage)
     {
@@ -93,6 +102,17 @@ public class MonsterAIScript : MonoBehaviour {
         stagerBuffer -= damage;
     }
 
-    
+    void IA()
+    {
+        Vector3 distanceBetween;
+        distanceBetween = playerTransform.position - enemytransform.position;
+        //Debug.Log(distanceBetween.magnitude);
+
+        if(distanceBetween.magnitude>5)
+        {
+            //Debug.Log("Enemy moving");
+            enemyRigid.AddForce(distanceBetween.normalized, ForceMode2D.Force);
+        }
+    }
 
 }

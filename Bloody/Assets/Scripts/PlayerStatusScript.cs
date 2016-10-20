@@ -12,6 +12,9 @@ public class PlayerStatusScript : MonoBehaviour
     //[SerializeField]
     // Image healthBar;
 
+  
+
+
     CameraControllerScript mainCamera;
    
 
@@ -26,7 +29,7 @@ public class PlayerStatusScript : MonoBehaviour
     public int life;
     public int damage;
     public bool isDead = false;
-    public bool isHit = false;
+    public bool isHit = false; 
     public int valueToAdd;
 
     void Start()
@@ -41,7 +44,7 @@ public class PlayerStatusScript : MonoBehaviour
         healthMax = health;
         healthBuffer = health;
         life = 2;
-        damage = 10;
+        damage = 100;
         valueToAdd = 10;
         //AUTANT ETRE SALEEEEEEE
         consomableList = new List<Item>();

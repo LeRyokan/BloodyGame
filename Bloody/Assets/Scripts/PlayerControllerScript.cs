@@ -25,6 +25,9 @@ public class PlayerControllerScript : MonoBehaviour {
     [SerializeField]
     GameObject attackCollider;
 
+    [SerializeField]
+    Collider2D crouchPlayerCollider;
+
     Collider2D playerCollider;
 
     PlayerStatusScript playerStatus;
@@ -52,6 +55,7 @@ public class PlayerControllerScript : MonoBehaviour {
     public bool isDashing;
     public bool isSprinting;
     public bool rdyToHit;
+    public bool isCrouch;
     
 
     public int property;
@@ -210,6 +214,7 @@ public class PlayerControllerScript : MonoBehaviour {
             else if (horizontalValue < -0.2f)
             {
                 velocityX = speed * horizontalValue;
+                //TODO IF NOT TRUE, SO TRUE
                 sprite.flipX = true;
                 if (attackColliderBox.offset.x > 0)
                 {
@@ -218,11 +223,23 @@ public class PlayerControllerScript : MonoBehaviour {
             }
             else if (verticalValue > 0.2f)
             {
+                //TODO IF NOT TRUE, SO TRUE
+
+                playerCollider.enabled = false;
+                crouchPlayerCollider.enabled = true;
+                isCrouch = true;
+                
+                
                 Debug.Log("Crouuch");
             }
+            else if (verticalValue < 0.2f)
+            {
+                crouchPlayerCollider.enabled = false;
+                playerCollider.enabled = true;
+                isCrouch = false;         
+            }
+
         }
-
-
         if (isSprinting)
         {
             isSprinting = false;
